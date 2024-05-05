@@ -1,0 +1,11 @@
+diffusers
+transformers
+accelerate
+flask
+numpy
+pandas
+tqdm
+torch
+opencv-python
+matplotlib
+gunicorn
